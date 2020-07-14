@@ -1,7 +1,7 @@
 # Solar-System
 Graphic Computation's Project
 
-| Fase   |                                   |
+| Fase   | Descrição                         |
 |--------|-----------------------------------|
 | Fase 1 | Primitivas Gráficas               |
 | Fase 2 | Transformações Geométricas        |
